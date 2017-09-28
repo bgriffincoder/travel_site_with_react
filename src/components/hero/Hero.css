@@ -1,0 +1,27 @@
+.jumbotron{
+    background: url("/images/travel_hero.jpg") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+  }
+
+  .push-spaces
+  {
+      height: 600px;
+  }
+  
+  .container {
+     z-index:2;
+  }
+  
+  .header {
+    margin-top:12%;
+    color:#000;
+  }
+  
+  .heroContainer {
+      margin-bottom: 30px;
+  }
+  
+  
